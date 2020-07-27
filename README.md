@@ -2,7 +2,7 @@
 
 This program is based on basic concepts of c language i.e. looping, switch case statement, file handling, case statement.
 
-##First page of game shows u this window which contain:<br>
+<h1>First page of game shows u this window which contain:</h1><br>
 press "s" for start the quiz.<br>
 press "a" to read about the quiz.<br>
 press "h" for any help you  want in quiz.<br>
