@@ -2,11 +2,11 @@
 
 This program is based on basic concepts of c language i.e. looping, switch case statement, file handling, case statement.
 
-<b>First page of game shows u this window which contain:</b>
-press "s" for start the quiz.
-press "a" to read about the quiz.
-press "h" for any help you  want in quiz.
-press "q" for quitting this game.
+##First page of game shows u this window which contain:<br>
+press "s" for start the quiz.<br>
+press "a" to read about the quiz.<br>
+press "h" for any help you  want in quiz.<br>
+press "q" for quitting this game.<br>
 
 <img width="674" alt="1" src="https://user-images.githubusercontent.com/67595202/87442447-ec55a180-c611-11ea-9822-d89a35914ac3.png">
 
